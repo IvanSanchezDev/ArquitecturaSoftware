@@ -1,0 +1,19 @@
+{
+  "name": "arquitecturasoftware",
+  "version": "1.0.0",
+  "description": "Los patrones de diseño de software son soluciones a problemas comunes en el desarrollo de software. Se basan en la experiencia de otros desarrolladores y proporcionan un marco para resolver estos problemas de forma eficiente y eficaz.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon --quiet ./src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "express": "4.18.2",
+    "nodemon": "3.0.1"
+  }
+}
